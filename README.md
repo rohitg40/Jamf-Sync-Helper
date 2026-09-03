@@ -54,6 +54,10 @@ This allows the package to be installed remotely through your MDM solution witho
 
 ## ⚙️ How It Works
 
+First Look of App:
+
+   ![First_look](First_look.png)
+
 After unlocking the application:
 
 - 🔐 Enter your Mac administrator password.
